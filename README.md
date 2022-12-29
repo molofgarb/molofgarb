@@ -1,16 +1,15 @@
-welcome to my profile!
+Welcome to my profile!
 
-<!--
-**molofgarb/molofgarb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Active Projects:
+    - ytdl-GUI: GUI program for yt-dlp, a video downloader
+    - nyc-subway-tracker: logs history of delay between trains for all lines and all stops in the NYC subway system
+  
+Projects on Hold:
+    - post-scriptum-mortar-tool: calculates mortar inputs for Post Scriptum given current and target coordinates
+        - Next step is to design a GUI for the program, but would take a lot of time to learn QT
+    - molofgarb.github.io: personal website to showcase programming projects
+        - Will be worked on when more projects are completed -- can't have a showcase without anything to show
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Archived Projects:
+    - rats.py
+        - Final project for HS Intro to Programming class
