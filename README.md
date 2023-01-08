@@ -10,7 +10,7 @@ Projects on Hold:
 
     - post-scriptum-mortar-tool: calculates mortar inputs for Post Scriptum given current and target coordinates
     
-        - Next step is to design a GUI for the program, but would take a lot of time to learn QT
+        - Next step is to design a GUI for the program, but is not a high priority at the moment
         
     - molofgarb.github.io: personal website to showcase programming projects
     
