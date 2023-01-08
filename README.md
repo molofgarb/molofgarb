@@ -16,7 +16,7 @@ Projects on Hold:
     
         - Will be worked on when more projects are completed -- can't have a showcase without anything to show
 
-Archived Projects:
+Completed Projects:
 
     - rats.py
     
