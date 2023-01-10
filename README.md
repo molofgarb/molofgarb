@@ -18,7 +18,7 @@ Projects on Hold:
 
 Completed Projects:
 
-    - rats.py
-    
-        - Final project for HS Intro to Programming class
+    - rats.py: Final project for HS Intro to Programming class
+
+    - molofgarb-laptop-deployment: scripts used to simplify laptop deployment
         
