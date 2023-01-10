@@ -14,7 +14,7 @@ Projects on Hold:
         
     - molofgarb.github.io: personal website to showcase programming projects
     
-        - Will be worked on when more projects are completed -- can't have a showcase without anything to show
+        - Will be worked as more projects are completed
 
 Completed Projects:
 
