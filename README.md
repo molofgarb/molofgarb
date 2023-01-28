@@ -1,12 +1,14 @@
+# molofgarb
+
 Welcome to my profile!
 
-Active Projects:
+## Active Projects:
 
     - ytdl-GUI: GUI program for yt-dlp, a video downloader
     
     - nyc-subway-tracker: logs history of delay between trains for all lines and all stops in the NYC subway system
   
-Projects on Hold:
+## Projects on Hold:
 
     - post-scriptum-mortar-tool: calculates mortar inputs for Post Scriptum given current and target coordinates
     
@@ -16,7 +18,7 @@ Projects on Hold:
     
         - Will be worked as more projects are completed
 
-Completed Projects:
+## Completed Projects:
 
     - rats.py: Final project for HS Intro to Programming class
 
