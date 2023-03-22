@@ -61,3 +61,26 @@
     : scripts used to simplify Windows laptop deployment
 </li>
 </ul>    
+
+<hr>
+
+<h2> Environments That I Use </h2>
+<ul>
+<li>
+    x86_64 (Desktop):
+    <ul>
+        <li>Windows 10 <a href="https://www.msys2.org/">MSYS2/MINGW64</a></li>
+        <li>Windows 10 <a href="https://learn.microsoft.com/en-us/windows/wsl/install">WSL</a>, <a href="https://wiki.archlinux.org/title                                 /Arch_Linux">Arch Linux</a></li>
+        <li><a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a></li>
+    </ul>
+</li>
+    
+    
+<li>
+    Apple Silicon (Laptop):
+    <ul>
+        <li>macOS</li>
+        <li><a href="https://asahilinux.org/">Asahi Linux</a> (<a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a>)</li>
+    </ul>
+</li>
+</ul>
