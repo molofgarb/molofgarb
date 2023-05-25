@@ -61,7 +61,7 @@
 
 <hr>
 
-<h2> Environments That I Use </h2>
+<h2> Environments That I Use: </h2>
 <ul>
 <li>
     x86_64 (Desktop):
