@@ -67,7 +67,7 @@
     x86_64 (Desktop):
     <ul>
         <li>Windows 10 <a href="https://www.msys2.org/">MSYS2/MINGW64</a></li>
-        <li>Windows 10 <a href="https://learn.microsoft.com/en-us/windows/wsl/install">WSL</a>, <a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a></li>
+        <li>Windows 10 <a href="https://learn.microsoft.com/en-us/windows/wsl/install">WSL2</a>, <a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a></li>
         <li><a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a></li>
     </ul>
 </li>
