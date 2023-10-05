@@ -77,7 +77,16 @@
     Apple Silicon (Laptop):
     <ul>
         <li>macOS</li>
-        <li><a href="https://asahilinux.org/">Asahi Linux</a> (<a href="https://wiki.archlinux.org/title/Arch_Linux">Arch Linux</a>)</li>
+        <li><a href="https://asahilinux.org/">Asahi Linux</a> (<a href="https://www.fedoraproject.org/">Fedora</a>)</li>
     </ul>
 </li>
+
+<li>
+    Proxmox VE (Server Host):
+    <ul>
+        <li>Windows 10, Windows 2022 Server</li>
+        <li>Arch Linux, Debian</li>
+    </ul>
+</li>
+
 </ul>
