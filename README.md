@@ -17,7 +17,14 @@
     </b>
     : GUI program for <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, a video downloader
 </li>
+<li>
+    <b>
+        <a href="https://github.com/molofgarb/molofgarb-system-scripts">system-scripts</a>
+    </b>
+    : a collection of system scripts that I use for my home server
+</li>
 </ul>
+
 
 <h2> Projects on Hold: </h2>
 
