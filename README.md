@@ -7,13 +7,13 @@
 <ul>
 <li>
     <b>
-        <a href="https://github.com/molofgarb/nyc-subway-tracker">nyc-subway-tracker</a>
+        <a href="https://github.com/molofgarb/nyc-subway-tracker/tree/dev">nyc-subway-tracker</a>
     </b>
     : logs history of trains for all lines and all stations in the NYC subway system 
 </li>
 <li>
     <b>
-        <a href="https://github.com/molofgarb/ytdl-GUI">ytdl-GUI</a>
+        <a href="https://github.com/molofgarb/ytdl-GUI/tree/dev">ytdl-GUI</a>
     </b>
     : GUI program for <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, a video downloader
 </li>
