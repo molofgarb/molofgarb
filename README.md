@@ -96,4 +96,9 @@
     </ul>
 </li>
 
+<hr>
+
+<h2>My Home Services:</h2>
+<img src="homepage.PNG">
+
 </ul>
