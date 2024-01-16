@@ -42,9 +42,10 @@
 <h2> Completed Projects: </h2>
 
 <ul>
+<li>
     <b><a href="https://github.com/molofgarb/tag-security-11">tag-security-11</a></b>
     : co-authored a security assessment draft of <a href="https://github.com/antrea-io/antrea">Antrea</a> for the CNCF Security Technical Advisory Group 
-    
+</li>
 <li>
     <b><a href="https://github.com/molofgarb/molofgarb-laptop-deployment">molofgarb-laptop-deployment</a></b>
     : scripts used to simplify Windows laptop deployment
