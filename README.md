@@ -47,10 +47,6 @@
     : co-authored a security assessment draft of <a href="https://github.com/antrea-io/antrea">Antrea</a> for the CNCF Security Technical Advisory Group 
 </li>
 <li>
-    <b><a href="https://github.com/molofgarb/molofgarb-laptop-deployment">molofgarb-laptop-deployment</a></b>
-    : scripts used to simplify Windows laptop deployment
-</li>
-<li>
     <b><a href="https://github.com/molofgarb/rats-py">rats.py</a></b>
     : Final project for HS Intro to Programming class
 </li>
