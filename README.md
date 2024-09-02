@@ -10,10 +10,6 @@
     : logs history of trains for all lines and all stations in the NYC subway system 
 </li>
 <li>
-    <b><a href="https://github.com/molofgarb/ytdl-GUI/tree/dev">ytdl-GUI</a></b>
-    : GUI program for <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, a video downloader
-</li>
-<li>
     <b><a href="https://github.com/molofgarb/molofgarb-system-scripts">system-scripts</a></b>
     : a collection of system scripts that I use for my home server
 </li>
@@ -23,6 +19,10 @@
 <h2> Projects on Hold: </h2>
 
 <ul>
+<li>
+    <b><a href="https://github.com/molofgarb/ytdl-GUI/tree/dev">ytdl-GUI</a></b>
+    : GUI program for <a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a>, a video downloader
+</li>
 <li>
     <b><a>molofgarb.github.io</a></b>
     : personal website to showcase programming projects
