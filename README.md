@@ -46,10 +46,6 @@
     <b><a href="https://github.com/molofgarb/tag-security-11">tag-security-11</a></b>
     : co-authored a security assessment draft of <a href="https://github.com/antrea-io/antrea">Antrea</a> for the CNCF Security Technical Advisory Group 
 </li>
-<li>
-    <b><a href="https://github.com/molofgarb/rats-py">rats.py</a></b>
-    : Final project for HS Intro to Programming class
-</li>
 </ul>    
 
 <hr>
