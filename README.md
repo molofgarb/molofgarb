@@ -10,7 +10,7 @@
     : logs history of trains for all lines and all stations in the NYC subway system 
 </li>
 <li>
-    <b><a href="https://github.com/molofgarb/molofgarb-system-scripts">system-scripts</a></b>
+    <b><a href="https://github.com/molofgarb/pub-configs">pub-configs</a></b>
     : a collection of system scripts that I use for my home server
 </li>
 </ul>
